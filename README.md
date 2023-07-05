@@ -62,6 +62,7 @@ freeCodeCamp cafe menu project
   </body>
 </html>
 
+<style>
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
   font-family: sans-serif;
@@ -157,3 +158,4 @@ a:hover {
 a:active {
   color: brown;
 }
+</style>
